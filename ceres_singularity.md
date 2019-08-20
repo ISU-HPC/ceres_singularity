@@ -1,3 +1,13 @@
+#### Table of Contents
+
+* [Singularity 3.x Usage on Ceres](#singularity-3x-usage-on-ceres)  
+* [Using docker and singularity images from existing container libraries](#using-docker-and-singularity-images-from-existing-container-libraries)  
+* [Slurm Batch Jobs with Containers](#slurm-batch-jobs-with-containers)  
+* [Building Containers](#building-containers)  
+* [Launching Client/Server Applications](#launching-clientserver-applications)  
+* [Things to Keep in Mind](#things-to-keep-in-mind)  
+
+
 # Singularity 3.x Usage on Ceres
 
 Singularity is available on Ceres and allows users to create their own environment and let the users develop and customize their workflow without the need for admin intervention.
