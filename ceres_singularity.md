@@ -344,7 +344,7 @@ listed in the job script output file
 
   in your slurm script is useful when you have jupyter notebook in the container. Also removes some annoying warnings from your logs
 
-* In the examples above, everything was done within ${TMPDIR} which will be deleted at the end of the job. Make sure you copy the output to your project directory to save it
+* In the examples above, everything was done within ${TMPDIR} which will be deleted at the end of the job. Make sure you copy the output to your project directory to retain your work
 
 * Make sure you have
 
